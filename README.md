@@ -1,4 +1,4 @@
-<img src="" alt="app" />
+<img src="https://github.com/xNoJustice/react-password-generator-app/blob/ecc3849f140325d786a111e0038142a0ebddc983/app.gif" alt="app" />
 
 # Getting Started with Create React App
 
